@@ -1,8 +1,5 @@
 # GithubAccountSwitcher
 
-config_file = os.path.join(os.path.expanduser('~'), ".ssh", "accountswitcherconfig.json")
-temp_config = os.path.join(os.path.expanduser('~'), ".ssh", "accountswitcherconfig.txt")
-
 ## REQUIRED FILES
 `~/.ssh/accountswitcherconfig.json`
 ```json
